@@ -6,10 +6,16 @@
     "title": "About",
     "type": "page"
   },
+  "creator": {
+    "title": "Original Creator ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/ryutosetsujin",
     "newWindow": true
   }
 }
